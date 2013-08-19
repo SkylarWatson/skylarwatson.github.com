@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Windows Git Server with SSH"
+title: "Setting up a Windows Git Server using SSH"
 description: ""
 category: 
 tags: []
