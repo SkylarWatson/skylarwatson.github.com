@@ -1,8 +1,8 @@
 # Site settings
 title: Skylar Watson
 description: 'My Thoughts'
-url: 'http://skylarwatson.github.io/blog'
-baseurl: '/blog/'
+url: 'http://skylarwatson.github.io'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
