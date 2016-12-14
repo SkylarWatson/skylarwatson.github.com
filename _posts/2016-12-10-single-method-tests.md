@@ -244,4 +244,5 @@ public class PersonMapperTest {
 }
 ```
 
-Although the original code had less lines. It could produce a test failure for a number of reasons. In a larger, more complicated domain that could potentially make it harder to resolve these failures.
+Originally, if we had a regression failure, the failing test would be `mapPersonToPersonView`. All we know from the name of that failure is that something broke during the mapping process. After refactoring, a regression failure would appear as a failing test named `mapPersonAgeToPersonView`, `mapHeightToStringValueOnView`, or `mapFirstAndLastNameToDisplayNameOnView`. This gives us more information, more quickly, about what broke.
+
