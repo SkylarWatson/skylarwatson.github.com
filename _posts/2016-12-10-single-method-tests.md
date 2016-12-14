@@ -124,7 +124,7 @@ public class PersonMapperTest {
     }
 
     @Test
-    public void mapPersonOnView() {
+    public void mapPersonAgeToPersonView() {
         Person person = new Person();
         person.setAge(38);
 
@@ -174,7 +174,7 @@ public class PersonMapperTest {
     }
 
     @Test
-    public void mapPersonOnView() {
+    public void mapPersonAgeToPersonView() {
         person.setAge(38);
 
         PersonView view = mapper.map(person);
@@ -221,7 +221,7 @@ public class PersonMapperTest {
     }
 
     @Test
-    public void mapPersonOnView() {
+    public void mapPersonAgeToPersonView() {
         person.setAge(38);
 
         assertEquals(38, mapper.map(person).getAge());
