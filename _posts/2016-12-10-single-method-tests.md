@@ -7,7 +7,7 @@ tags: [junit]
 ---
 Often, I've found myself coming across unit tests that appear to be testing all scenarios within a single method. Common places I seem to find these types of tests are: Mappers, Repositories, and Factories. If the code was truly test driven, then there may be absolutely nothing wrong with the solution. The question that  I'd propose: Could we improve the readability and maintainability by having each scenario in a separate test?
 
-In my example I decided to use a mapper. Which will be responsible for mapping between a domain and a view object. To keep focus on potential test readability improvements, only test code will be provided.
+In my example I decided to use a mapper. Which will be responsible for mapping between a domain and a view object. To keep focus on potential test readability and maintainability improvements, only test code will be provided.
 
 My code below currently contains a single test scenario that has the responsibility of testing that every field was correctly mapped by the mapper.
 
