@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<svg version="1.2" baseProfile="tiny" width="215.9mm" height="43mm" viewBox="0 6500 20800 500" preserveAspectRatio="xMidYMid" fill-rule="evenodd" stroke-width="28.222" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve">
+ <defs>
+  <font id="EmbeddedFont_1" horiz-adv-x="2048">
+   <font-face font-family="Arial embedded" units-per-em="2048" font-weight="normal" font-style="normal" ascent="1847" descent="439"/>
+   <missing-glyph horiz-adv-x="2048" d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z"/>
+   <glyph unicode="1" horiz-adv-x="555" d="M 763,0 L 583,0 583,1147 C 540,1106 483,1064 413,1023 342,982 279,951 223,930 L 223,1104 C 324,1151 412,1209 487,1276 562,1343 616,1409 647,1472 L 763,1472 Z"/>
+   <glyph unicode="0" horiz-adv-x="971" d="M 85,723 C 85,896 103,1036 139,1142 174,1247 227,1329 298,1386 368,1443 456,1472 563,1472 642,1472 711,1456 770,1425 829,1393 878,1347 917,1288 956,1228 986,1155 1008,1070 1030,984 1041,868 1041,723 1041,551 1023,412 988,307 953,201 900,119 830,62 759,4 670,-25 563,-25 422,-25 311,26 230,127 133,249 85,448 85,723 Z M 270,723 C 270,482 298,322 355,243 411,163 480,123 563,123 646,123 715,163 772,243 828,323 856,483 856,723 856,964 828,1125 772,1204 715,1283 645,1323 561,1323 478,1323 412,1288 363,1218 301,1129 270,964 270,723 Z"/>
+  </font>
+ </defs>
+ <g visibility="visible" id="MasterSlide_1_Default">
+  <desc>Master slide
+  </desc>
+  <rect fill="none" stroke="none" x="0" y="0" width="21590" height="27940"/>
+ </g>
+ <g visibility="visible" id="Slide_1_page1">
+  <g id="Drawing_1">
+   <path fill="rgb(255,255,255)" stroke="none" d="M 5191,8493 L 2651,8493 2651,5826 7731,5826 7731,8493 5191,8493 Z"/>
+   <path fill="none" stroke="rgb(0,0,0)" stroke-width="76" stroke-linejoin="round" d="M 5191,8493 L 2651,8493 2651,5826 7731,5826 7731,8493 5191,8493 Z"/>
+   <g fill="rgb(0,0,0)" stroke="none" font-family="Arial embedded" font-size="635" font-style="normal" font-weight="400">
+    <text x="4838" y="7380">
+     <tspan x="4838 5189">10</tspan></text>
+   </g>
+  </g>
+  <g id="Drawing_2">
+   <path fill="rgb(255,255,255)" stroke="none" d="M 10779,8493 L 8239,8493 8239,5826 13319,5826 13319,8493 10779,8493 Z"/>
+   <path fill="none" stroke="rgb(0,0,0)" stroke-width="76" stroke-linejoin="round" d="M 10779,8493 L 8239,8493 8239,5826 13319,5826 13319,8493 10779,8493 Z"/>
+   <g fill="rgb(0,0,0)" stroke="none" font-family="Arial embedded" font-size="635" font-style="normal" font-weight="400">
+    <text x="10426" y="7380">
+     <tspan x="10426 10777">10</tspan></text>
+   </g>
+  </g>
+  <g id="Drawing_3">
+   <path fill="rgb(255,255,255)" stroke="none" d="M 16367,8493 L 13827,8493 13827,5826 18907,5826 18907,8493 16367,8493 Z"/>
+   <path fill="none" stroke="rgb(0,0,0)" stroke-width="76" stroke-linejoin="round" d="M 16367,8493 L 13827,8493 13827,5826 18907,5826 18907,8493 16367,8493 Z"/>
+   <g fill="rgb(0,0,0)" stroke="none" font-family="Arial embedded" font-size="635" font-style="normal" font-weight="400">
+    <text x="16014" y="7380">
+     <tspan x="16014 16365">10</tspan></text>
+   </g>
+  </g>
+  <g id="Drawing_4">
+   <rect fill="none" stroke="none" x="3132" y="4656" width="2033" height="840"/>
+   <g fill="rgb(0,0,0)" stroke="none" font-family="Arial embedded" font-size="529" font-style="normal" font-weight="400">
+    <text x="3382" y="5259">
+     <tspan x="3382 3674 3970">100</tspan></text>
+   </g>
+  </g>
+  <g id="Drawing_5">
+   <rect fill="none" stroke="none" x="8586" y="4645" width="2033" height="840"/>
+   <g fill="rgb(0,0,0)" stroke="none" font-family="Arial embedded" font-size="529" font-style="normal" font-weight="400">
+    <text x="8836" y="5248">
+     <tspan x="8836 9128 9424">100</tspan></text>
+   </g>
+  </g>
+  <g id="Drawing_6">
+   <rect fill="none" stroke="none" x="14208" y="4683" width="2033" height="840"/>
+   <g fill="rgb(0,0,0)" stroke="none" font-family="Arial embedded" font-size="529" font-style="normal" font-weight="400">
+    <text x="14458" y="5286">
+     <tspan x="14458 14750 15046">100</tspan></text>
+   </g>
+  </g>
+ </g>
+</svg>
