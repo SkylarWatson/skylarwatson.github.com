@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Testing Pyramid"
+title: "Getting Trapped by Combinatorial Testing"
 description: ""
 category:
 tags: [junit, testing]
