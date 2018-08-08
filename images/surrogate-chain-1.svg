@@ -43,7 +43,7 @@
    <rect fill="none" stroke="none" x="16348" y="13309" width="3415" height="1274"/>
    <g fill="rgb(0,0,0)" stroke="none" font-family="Arial embedded" font-size="282" font-style="normal" font-weight="400">
     <text x="17444" y="13886">
-     <tspan x="17444 17647 17804 17944 18024 18181 18418 18574">Customer</tspan></text>
+     <tspan x="17444">Product</tspan></text>
     <text fill="rgb(0,0,0)" stroke="none" x="17287" y="14199">
      <tspan x="17287 17490 17647 17803 17947 18007 18151 18227 18383 18540 18684">Consistency</tspan></text>
    </g>
@@ -106,14 +106,14 @@
    </g>
   </g>
   <g id="Drawing_9">
-   <path fill="rgb(153,255,102)" stroke="none" d="M 2791,13192 L 5353,13192 6208,13830 5353,14469 2791,14469 3645,13830 2791,13192 Z"/>
+   <path fill="rgb(253, 170, 76)" stroke="none" d="M 2791,13192 L 5353,13192 6208,13830 5353,14469 2791,14469 3645,13830 2791,13192 Z"/>
    <path fill="none" stroke="rgb(128,128,128)" stroke-linejoin="round" d="M 2791,13192 L 5353,13192 6208,13830 5353,14469 2791,14469 3645,13830 2791,13192 Z"/>
    <rect fill="none" stroke="none" x="2791" y="13192" width="3417" height="1277"/>
    <g fill="rgb(0,0,0)" stroke="none" font-family="Arial embedded" font-size="282" font-style="normal" font-weight="400">
     <text x="3888" y="13772">
-     <tspan x="3888 4091 4248 4388 4468 4625 4862 5018">Customer</tspan></text>
+     <tspan x="3888 4091 4248 4388 4468 4625 4862 5018">Custom</tspan></text>
     <text fill="rgb(0,0,0)" stroke="none" x="3731" y="14085">
-     <tspan x="3731 3934 4091 4247 4391 4451 4595 4671 4827 4984 5128">Consistency</tspan></text>
+     <tspan x="3731">Water Profile</tspan></text>
    </g>
   </g>
   <g>
